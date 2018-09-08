@@ -1,0 +1,26 @@
+{
+    "symbol": "LBC",
+    "address": "0x94a680De406791Eb761c6D817B931a11E39b48a0",
+    "overview":{
+          "en": "LifeBanker Coin",
+          "zh": "全球健康金融区块链创新平台"
+    },
+    "email": "chaichunyan@yihubao.cn",
+    "website": "http://lifebanker.io/",
+    "whitepaper": "http://lifebanker.io/Public/WhitePaper/LifeBanker_cn.pdf",
+    "state": "NORMAL",
+    "published_on": "2018-08-01",
+    "initial_price":{
+    },
+    "links": {
+      "blog": "",
+      "twitter": "",
+      "telegram": "",
+      "github": "",
+      "facebook": "",
+      "reddit": "",
+      "slack": "",
+      "medium": ""
+    }
+  }
+  
